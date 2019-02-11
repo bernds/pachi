@@ -28,8 +28,8 @@ tree search.
 
 ## Binary Releases
 
-**Windows**: Download [binary release](https://github.com/pasky/pachi/releases)
-for windows and follow instructions inside.
+**Linux / Windows**: Download [binary release](https://github.com/pasky/pachi/releases)
+and follow instructions inside.
 
 **Ubuntu**: Install 'pachi-go' package from [ppa](https://launchpad.net/~lemonsqueeze/+archive/ubuntu/pachi):
 
